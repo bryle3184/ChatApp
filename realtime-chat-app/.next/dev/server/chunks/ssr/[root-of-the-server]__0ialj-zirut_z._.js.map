@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Bryle/Downloads/Projects/ChatApp/realtime-chat-app/pages/_document.js"],"sourcesContent":["import { Html, Head, Main, NextScript } from 'next/document';\n\nexport default function Document() {\n  return (\n    <Html>\n      <Head>\n        <link\n          rel=\"stylesheet\"\n          href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css\"\n          integrity=\"sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm\"\n          crossOrigin=\"anonymous\"\n        />\n      </Head>\n      <body>\n        <Main />\n        <NextScript />\n      </body>\n    </Html>\n  );\n}\n"],"names":["Document","rel","href","integrity","crossOrigin"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,qKAAC,iIAAI;;0BACH,qKAAC,iIAAI;0BACH,cAAA,qKAAC;oBACCC,KAAI;oBACJC,MAAK;oBACLC,WAAU;oBACVC,aAAY;;;;;;;;;;;0BAGhB,qKAAC;;kCACC,qKAAC,iIAAI;;;;;kCACL,qKAAC,uIAAU;;;;;;;;;;;;;;;;;AAInB"}}]
+}

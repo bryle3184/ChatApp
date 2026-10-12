@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(taskkill *)",
+      "Bash(curl -s http://localhost:3000/_next/static/chunks/pages_index_1gb68scai-n28._.js)",
+      "Bash(awk '{print $2}')",
+      "Bash(xargs -r taskkill //PID //F)",
+      "Bash(netstat -ano)",
+      "Bash(npm install *)",
+      "Bash(curl -I http://localhost:3000/_next/static/chunks/pages_index_1gb68scai-n28._.js)",
+      "Bash(xargs grep -l \"class Chat\")",
+      "Bash(awk '{print $5}')",
+      "Bash(xargs -I {} taskkill //PID {} //F)"
+    ]
+  }
+}
